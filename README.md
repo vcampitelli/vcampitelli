@@ -1,6 +1,6 @@
 ## Vinícius Campitelli
 
-### Consultoria e TI e instrutor de treinamentos sobre:
+### Consultoria em TI e instrutor de treinamentos sobre:
 
 * Arquitetura de sistemas
 * Boas práticas
@@ -10,6 +10,7 @@
 * Linux
 * Microsserviços
 * Testes
+* E muitos outros assuntos!
 
 ![Instagram: vcampitelli](https://img.shields.io/badge/Instagram-blue?logo=instagram&logoColor=white)
 ![LinkedIn: Vinícius Campitelli](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)
