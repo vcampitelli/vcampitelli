@@ -77,14 +77,3 @@
         <img src="img/carreira-empreendedorismo.jpg" alt="Carreira e Empreendedorismo" title="Carreira e Empreendedorismo">
     </a>
 </div>
-<style>
-#talks {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1em;
-}
-#talks > a > img {
-    max-width: 300px;
-    display: block;
-}
-</style>
