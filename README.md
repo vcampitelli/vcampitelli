@@ -26,7 +26,7 @@
     <a href="https://viniciuscampitelli.com/slides-autenticacao-jwt">
         <img src="img/autenticacao-jwt.png" alt="O que você precisa saber sobre autenticação com JWT" title="O que você precisa saber sobre autenticação com JWT">
     </a>
-    <a href="https://viniciuscampitelli.com/workshop-docker">
+    <a href="https://viniciuscampitelli.com/workshop-containers">
         <img src="img/docker.png" alt="Docker na prática: Criando um ambiente de desenvolvimento completo" title="Docker na prática: Criando um ambiente de desenvolvimento completo">
     </a>
     <a href="https://viniciuscampitelli.com/levando-aplicacao-amazon">
