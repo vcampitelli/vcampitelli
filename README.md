@@ -1,4 +1,4 @@
-![Vinícius Campitelli](img/banner.png)
+[![Vinícius Campitelli](img/banner.png)](https://viniciuscampitelli.com)
 
 ### Consultoria e treinamentos para empresas sobre:
 
@@ -6,7 +6,7 @@
 * Boas práticas
 * Cibersegurança
 * DevOps, CI/CD
-* Docker, Kubernetes
+* Docker e Kubernetes
 * Linux
 * Microsserviços
 * Testes
