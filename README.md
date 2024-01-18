@@ -14,10 +14,10 @@
 
 Se interessou? Entre em contato comigo!
 
-![Instagram: vcampitelli](img/social/instagram.svg)
-![LinkedIn: Vinícius Campitelli](img/social/linkedin.svg)
-![Threads: vcampitelli](img/social/threads.svg)
-![Twitter: vcampitelli](img/social/twitter.svg)
+[![Instagram: vcampitelli](img/social/instagram.svg)](https://instagram.com/vcampitelli)
+[![LinkedIn: Vinícius Campitelli](img/social/linkedin.svg)](https://linkedin.com/in/viniciuscampitelli/)
+[![Threads: vcampitelli](img/social/threads.svg)](https://www.threads.net/@vcampitelli)
+[![Twitter: vcampitelli](img/social/twitter.svg)](https://twitter.com/vcampitelli)
 
 # Palestras
 
