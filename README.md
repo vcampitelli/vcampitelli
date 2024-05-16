@@ -22,6 +22,9 @@ Se interessou? Entre em contato comigo!
 # Palestras
 
 <div id="talks">
+    <a href="https://viniciuscampitelli.com/slides-git">
+        <img src="img/slides/git.png" alt="Perdendo o medo e aproveitando o máximo do Git">
+    </a>
     <a href="https://viniciuscampitelli.com/slides-webauthn">
         <img src="img/slides/webauthn.png" alt="WebAuthn: o &quot;novo&quot; padrão de autenticação na Web">
     </a>
