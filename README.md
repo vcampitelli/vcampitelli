@@ -1,23 +1,26 @@
 [![Vinícius Campitelli](img/banner.png)](https://viniciuscampitelli.com)
 
-### Consultoria e treinamentos para empresas sobre:
+### Consultoria e treinamentos de tecnologia para empresas sobre:
 
-* Arquitetura de sistemas
-* Boas práticas
-* Cibersegurança
-* DevOps, CI/CD
-* Docker e Kubernetes
-* Linux
-* Microsserviços
-* Testes
-* E muitos outros assuntos!
+* 🏛️ Arquitetura de sistemas
+* 🔷 Boas práticas
+* 🛡️ Cibersegurança
+* ♾️ DevOps e CI/CD
+* 🐳 Docker e Kubernetes
+* 🐧 Linux
+* 📦 Microsserviços
+* 🧪 Testes
+* *️⃣ Assuntos sob demanda
 
-Se interessou? Entre em contato comigo!
+Se interessou?
 
-[![Instagram: vcampitelli](img/social/instagram.svg)](https://instagram.com/vcampitelli)
-[![LinkedIn: Vinícius Campitelli](img/social/linkedin.svg)](https://linkedin.com/in/viniciuscampitelli/)
-[![Threads: vcampitelli](img/social/threads.svg)](https://www.threads.net/@vcampitelli)
-[![Twitter: vcampitelli](img/social/twitter.svg)](https://twitter.com/vcampitelli)
+[![Agende uma demonstração gratuita](img/social/demo.png)](https://calendly.com/viniciuscampitelli/demo)
+
+Ou entre em contato:
+
+[![Instagram: vcampitelli](img/social/instagram.png)](https://instagram.com/vcampitelli)
+[![LinkedIn: Vinícius Campitelli](img/social/linkedin.png)](https://linkedin.com/in/viniciuscampitelli/)
+[![Twitter: vcampitelli](img/social/twitter.png)](https://twitter.com/vcampitelli)
 
 # Palestras
 
