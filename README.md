@@ -1,5 +1,7 @@
 [![Vinícius Campitelli](img/banner.png)](https://viniciuscampitelli.com)
 
+> Desenvolvedor há mais de 15 anos, já atuei em projetos em diversas áreas, como email marketing, automação de redes, e-commerce, cibersegurança e e-learning, onde inclusive fundei uma startup.
+
 ### Consultoria e treinamentos de tecnologia para empresas sobre:
 
 * 🏛️ Arquitetura de sistemas
@@ -25,6 +27,9 @@ Ou entre em contato:
 # Palestras
 
 <div id="talks">
+    <a href="https://viniciuscampitelli.com/slides-pipelines-ci-cd">
+        <img src="img/slides/pipelines-ci-cd.png" alt="Criando esteiras de CI/CD performáticas e seguras">
+    </a>
     <a href="https://viniciuscampitelli.com/slides-git">
         <img src="img/slides/git.png" alt="Perdendo o medo e aproveitando o máximo do Git">
     </a>
