@@ -27,6 +27,12 @@ Ou entre em contato:
 # Palestras
 
 <div id="talks">
+    <a href="https://viniciuscampitelli.com/slides-refatorando-aplicacoes">
+        <img src="img/slides/refatorando-aplicacoes.png" alt="Refatorando Aplicações na Prática">
+    </a>
+    <a href="https://viniciuscampitelli.com/slides-como-comecar-ti">
+        <img src="img/slides/como-comecar-ti.png" alt="Como começar na área: quais ferramentas e tecnologias usar?">
+    </a>
     <a href="https://viniciuscampitelli.com/slides-pipelines-ci-cd">
         <img src="img/slides/pipelines-ci-cd.png" alt="Criando esteiras de CI/CD performáticas e seguras">
     </a>
