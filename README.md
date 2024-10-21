@@ -27,6 +27,9 @@ Ou entre em contato:
 # Palestras
 
 <div id="talks">
+    <a href="https://viniciuscampitelli.com/slides-criando-aplicacoes-nuvem">
+        <img src="img/slides/criando-aplicacoes-nuvem.png" alt="Criando Aplicações Web na Nuvem">
+    </a>
     <a href="https://viniciuscampitelli.com/slides-refatorando-aplicacoes">
         <img src="img/slides/refatorando-aplicacoes.png" alt="Refatorando Aplicações na Prática">
     </a>
